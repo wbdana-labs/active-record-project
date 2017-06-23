@@ -4,3 +4,5 @@ gem "rspec"
 gem "activerecord"
 gem "sqlite3"
 gem "rake"
+gem 'pry-byebug'
+gem 'sinatra-activerecord'
